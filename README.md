@@ -10,3 +10,4 @@ Proyecto Frontend en Astro para la aplicación de formularios y estadísticas.
 - v2.1.0: Eliminada carpeta de prueba en main.
 - v2.1.1: Corrección de errores pequeños y ajustes de estilos.
 - v2.1.2: Ajustes y corrección de errores finales.
+- v2.1.3: Nueva versión guardada con su commit respectivo.
